@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "CharacterListView.body.getter:CharacterListView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "characterListVm.status">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CharacterListViewUITests.testCharacterListView():CharacterListViewUITests.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "app.otherElements">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CharacterListViewModel.getCharacters(query:):CharacterListViewModel.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
